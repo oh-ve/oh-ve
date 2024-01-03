@@ -1,6 +1,6 @@
 # Hi, I'm Ve!
 
-## I'm a full-stack web developer currently based in Vienna, 🇦🇹
+## I'm a full-stack web developer based in Vienna, 🇦🇹
 
 I'm a former political communications expert who wanted to do something more... you know... *fun* and rediscovered an old passion in web development, a field in which I used to work a few years ago. I love creating things and solving problems through code.
 
