@@ -10,7 +10,7 @@ I'm a former political communications expert who wanted to do something more... 
 - 💻 I'm curious and always striving to learn new things and improve my skills through personal projects.
 - 🐕 When I'm not coding, I'm probably traveling, gaming, or hanging out with my dog.
 
-### My Tech-Stack
+### My Tech-Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
